@@ -3,3 +3,4 @@ data/*.csv
 .RData
 .Rproj.user/
 __pycache__/
+stock_data.db
